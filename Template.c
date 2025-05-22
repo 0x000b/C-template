@@ -1,4 +1,5 @@
 #include<unistd.h>
+#inlcude<stdio.h>
 #define Nl write(1, "\n", 1);
 
 int main(int argc , char *argv[])
