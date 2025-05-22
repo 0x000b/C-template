@@ -68,8 +68,8 @@ This file is copied each time you use `vimc` or `nanoc`.
 
 ## 📦 What's Inside?
 
-- `.file.c` – Your customizable C boilerplate
-- `fb.sh` – The helper script to copy the template
+- `file.c` – Your customizable C boilerplate
+- `copy.sh` – The helper script to copy the template
 - `setup.sh` – Installs aliases and sets `$TEMPLATE_DIR`
 - `vimc` & `nanoc` – Aliases to generate and open files fast
 
