@@ -1,4 +1,4 @@
-# ✨ vimc-template — Escape the Boilerplate
+# ✨ ZapC — Escape the Boilerplate
 
 A minimal alias to escape the boring task of writing the same C `main()` over and over.
 
