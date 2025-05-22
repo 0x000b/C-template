@@ -13,8 +13,8 @@ Create a new C file from a pre-made template and open it instantly in your edito
 ```bash
 git clone https://github.com/0x000b/ZapC.git
 cd ZapC 
-chmod +x setup.sh fb.sh
-./setup.sh
+chmod +x setup.sh fb.sh install.sh
+./install.sh
 ```
 
 2. Restart your terminal or run:
