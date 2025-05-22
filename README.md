@@ -11,8 +11,8 @@ Create a new C file from a pre-made template and open it instantly in your edito
 1. Clone this repository and install:
 
 ```bash
-git clone https://github.com/0x000b/vimc-template.git
-cd vimc-template
+git clone https://github.com/0x000b/ZapC.git
+cd ZapC 
 chmod +x setup.sh fb.sh
 ./setup.sh
 ```
